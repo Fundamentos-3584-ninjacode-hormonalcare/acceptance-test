@@ -4,3 +4,4 @@ Feature: Subir resultados de laboratorio
     When Carga archivos de laboratorio
     Then Son enviados al médico
 
+.
