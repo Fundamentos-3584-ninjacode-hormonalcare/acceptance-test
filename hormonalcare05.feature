@@ -4,3 +4,4 @@ Feature: Chat médico-paciente
     When El médico lo recibe
     Then Responde dentro de 24 horas
 
+.
