@@ -4,3 +4,4 @@ Feature: Selección de rol
     When Selecciona rol "Paciente"
     Then La interfaz se ajusta para ese rol
 
+.
