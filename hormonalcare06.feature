@@ -4,3 +4,4 @@ Feature: Transferencia de pacientes entre médicos
     When Selecciona al colega y confirma
     Then El paciente es transferido
 
+.
