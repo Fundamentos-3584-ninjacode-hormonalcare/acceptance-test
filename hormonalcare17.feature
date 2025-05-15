@@ -4,3 +4,4 @@ Feature: Chat paciente-doctor con Twilio
     When Inicia un chat desde la aplicación
     Then Se establece conexión usando Twilio
 
+.
