@@ -4,3 +4,4 @@ Feature: Agendar cita como paciente
     When Selecciona una hora disponible
     Then Se programa la cita
 
+.
