@@ -4,3 +4,4 @@ Feature: Inicio de sesión
     When Ingresa correo y contraseña válidos
     Then Se le concede acceso
 
+.
