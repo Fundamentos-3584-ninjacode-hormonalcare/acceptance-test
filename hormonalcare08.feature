@@ -4,3 +4,4 @@ Feature: Registro con código de médico
     When Lo ingresa al registrarse
     Then La cuenta queda asociada al médico
 
+.
