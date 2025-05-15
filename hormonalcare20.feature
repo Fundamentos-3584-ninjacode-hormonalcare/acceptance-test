@@ -3,4 +3,4 @@ Feature: Visualización del Footer
     Given El visitante está en la landing page
     When Revisa el footer
     Then Encuentra enlaces como "Contacto" y "Acerca de Nosotros"
-
+.
