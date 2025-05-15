@@ -4,3 +4,4 @@ Feature: Ver información detallada de pacientes
     When Accede a su lista de pacientes
     Then Ve resumen y puede consultar detalles
 
+.
