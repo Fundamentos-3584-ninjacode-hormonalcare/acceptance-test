@@ -3,3 +3,4 @@ Feature: Visualizar médicos disponibles
     Given El paciente accede a "Médicos disponibles"
     When Revisa los perfiles
     Then Ve especialidad, foto, nombre y tarifas
+.
