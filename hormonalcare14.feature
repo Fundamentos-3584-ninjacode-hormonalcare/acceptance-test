@@ -4,3 +4,4 @@ Feature: Registro de usuario
     When Ingresa datos válidos
     Then Se crea la cuenta y se envía confirmación
 
+.
