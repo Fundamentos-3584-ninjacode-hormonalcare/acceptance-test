@@ -4,3 +4,4 @@ Feature: Comunicación con el equipo de soporte
     When Accede a la sección "Contáctanos"
     Then Encuentra formulario, email y teléfono para soporte
 
+.
