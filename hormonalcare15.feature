@@ -4,3 +4,4 @@ Feature: Ver citas en Google Calendar
     When Se sincroniza con Google Calendar
     Then Se muestran las citas programadas
 
+.
