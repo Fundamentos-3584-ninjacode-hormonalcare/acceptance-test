@@ -4,3 +4,4 @@ Feature: Cambio de plan de suscripción
     When Elige una nueva opción de plan
     Then Se actualiza su suscripción
 
+.
